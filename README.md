@@ -52,3 +52,4 @@ export default tseslint.config({
 
 resource
 https://github.com/anza-xyz/wallet-adapter/blob/master/APP.md
+https://www.youtube.com/watch?v=V9ZE24WJ2GQ
